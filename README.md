@@ -1,3 +1,3 @@
 # MNIST
 
-Example of Tensoflow/Keras with MNIST Dataset
+Example of Tensorflow/Keras with MNIST Dataset
